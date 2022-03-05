@@ -1,3 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background-color: hsl(217, 19%, 24%);
+  font-family: "Manrope", sans-serif;
+  font-weight: 800;
+}
+
+.card {
+  border: 1px solid white;
+  border-radius: 4px;
+  background-color: hsl(217, 19%, 38%);
+  margin: 0 auto;
+  padding: 2rem;
+  max-width: 40rem;
+  min-width: 40rem;
+  max-height: 20rem;
+  min-height: 20rem;
+  display: block;
+  text-align: center;
+}
+
+.advice_id {
+  font-size: 1.2rem;
+  color: hsl(150, 100%, 66%);
+}
+
+.advice_quote {
+  font-size: 2.8rem;
+  color: hsl(193, 38%, 86%);
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
