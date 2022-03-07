@@ -57,7 +57,7 @@ svg {
   position: absolute;
   left: 45%;
   top: 92.5%;
-  transform: translateY(-20%);
+  transform: translateY(-10%);
   background-image: url("../images/icon-dice.svg");
   background-repeat: no-repeat;
   background-position: center;
